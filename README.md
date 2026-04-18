@@ -6,7 +6,7 @@ Surowe dane zawierały błędy, które uniemożliwiały bezpośrednią analizę:
 - Niejednolite nazewnictwo
 - Błędy w formatach
 - Brakujące dane
-Po zaimportowaniu wyczyszczonych danych do MySQL przeprowadziłem analize przy użyciu:
+ Po zaimportowaniu wyczyszczonych danych do MySQL przeprowadziłem analize przy użyciu:
 - JOINs: Połączenie dwóch tabel.
 - Subqueries: Wyłonienie transakcji o przychodzie powyżej średniej.
 - Agregacje: Zestawienia przychodów i zysków netto z podziałem na kraje i kategorie.
